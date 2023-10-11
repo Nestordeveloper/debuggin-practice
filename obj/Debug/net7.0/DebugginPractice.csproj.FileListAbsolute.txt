@@ -1,0 +1,14 @@
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\DebugginPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\DebugginPractice.AssemblyInfoInputs.cache
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\DebugginPractice.AssemblyInfo.cs
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\DebugginPractice.csproj.CoreCompileInputs.cache
+C:\Users\snela\Desktop\DebugginPractice\bin\Debug\net7.0\DebugginPractice.exe
+C:\Users\snela\Desktop\DebugginPractice\bin\Debug\net7.0\DebugginPractice.deps.json
+C:\Users\snela\Desktop\DebugginPractice\bin\Debug\net7.0\DebugginPractice.runtimeconfig.json
+C:\Users\snela\Desktop\DebugginPractice\bin\Debug\net7.0\DebugginPractice.dll
+C:\Users\snela\Desktop\DebugginPractice\bin\Debug\net7.0\DebugginPractice.pdb
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\DebugginPractice.dll
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\refint\DebugginPractice.dll
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\DebugginPractice.pdb
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\DebugginPractice.genruntimeconfig.cache
+C:\Users\snela\Desktop\DebugginPractice\obj\Debug\net7.0\ref\DebugginPractice.dll
